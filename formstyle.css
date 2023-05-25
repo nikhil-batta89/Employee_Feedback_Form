@@ -1,0 +1,38 @@
+.back{
+    background-color: aqua;
+    padding: 50px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+label{
+    color:crimson;
+    font-size:20px;
+    font-weight:bold;
+    text-decoration:underline;
+    text-decoration-color:crimson;
+    text-decoration-style:solid;
+}
+
+input{
+    border:5px solid black;
+    border-radius:4px;
+    background-color:white;
+    box-shadow:0 0 2px rgba(0,0,0,0.3);
+    margin-left: 30px;
+    width: 200px;
+    height: 20px;
+}
+
+.next{
+    background-color:coral;
+    margin-left: 350px;
+    margin-right: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size:30px;
+    font-weight:bold;
+    color: rgb(245, 227, 155);
+    justify-content: space-between;
+    padding: 50px; 
+}
